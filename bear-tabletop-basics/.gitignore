@@ -1,0 +1,73 @@
+# Rider IDE settings
+.idea/
+*.sln.iml
+
+# Build results
+bin/
+obj/
+
+# Visual Studio / .NET user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider caches
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf/
+
+# Rider generated files
+.idea/**/contentModel.xml
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.xml
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# DotCover (coverage tool)
+.idea/**/dotCover/
+
+# User-specific files
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*_h.h
+*.dbmdl
+*.bak
+*.backup
+*.log
+*.ldf
+*.ndf
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Entity Framework Migrations snapshots
+Migrations/obj/
+Migrations/bin/
+
+# OS junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log
+
+# SQLite databases (optional – ignore if you want to keep them in git)
+*.db
+*.sqlite
+*.sqlite3
