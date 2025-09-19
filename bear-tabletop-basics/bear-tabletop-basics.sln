@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bear-tabletop-basics.Platfo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bear-tabletop-basics.Data", "bear-tabletop-basics.Data\bear-tabletop-basics.Data.csproj", "{514F5FD9-3A85-4D9B-8D44-18B32D715342}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bear-tabletop-basics.Utils", "bear-tabletop-basics.Utils\bear-tabletop-basics.Utils.csproj", "{1B3D13EE-BC3F-4423-9FE8-DF32F1860862}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{514F5FD9-3A85-4D9B-8D44-18B32D715342}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{514F5FD9-3A85-4D9B-8D44-18B32D715342}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{514F5FD9-3A85-4D9B-8D44-18B32D715342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B3D13EE-BC3F-4423-9FE8-DF32F1860862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3D13EE-BC3F-4423-9FE8-DF32F1860862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3D13EE-BC3F-4423-9FE8-DF32F1860862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3D13EE-BC3F-4423-9FE8-DF32F1860862}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
